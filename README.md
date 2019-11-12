@@ -19,18 +19,18 @@ Then we will try to analyze and visualize the wrangled data, delivery interestin
 3.`tweet_collect` Gather each tweet's retweet count and favorite count to get futher info. Using the tweet IDs in the WeRateDogs Twitter archive, query the Twitter API for each tweet's JSON data using Python's Tweepy library and store each tweet's entire set of JSON data in a file called 'tweet_json.txt' file.
 
 # The library used in this project:
-# pandas
+- pandas
 
-# numpy
+- numpy
 
-# requests
+- requests
 
-# os
+- os
 
-# tweepy
+- tweepy
 
-# json
+- json
 
-# matplotlib.pyplot
+- matplotlib.pyplot
 
-# seaborn
+- seaborn

@@ -20,10 +20,17 @@ Then we will try to analyze and visualize the wrangled data, delivery interestin
 
 # The library used in this project:
 pandas
+
 numpy
+
 requests
+
 os
+
 tweepy
+
 json
+
 matplotlib.pyplot
+
 seaborn
